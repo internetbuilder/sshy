@@ -1,4 +1,4 @@
-# SSH: HTML5 Based SSH Client
+## SSH: HTML5 Based SSH Client
 
 SSHy is a HTML5 SSHv2 web client implementing E2E encryption that runs well on modern web browsers.
 
